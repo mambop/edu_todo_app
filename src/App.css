@@ -1,0 +1,15 @@
+
+.container{
+    margin: auto 30px; 
+}
+  
+  input{
+  border-color: coral;
+  width: 40%;
+  padding: 5px;
+  border-radius: 20px;
+  outline: none;
+  font-size:medium;
+
+  }
+  
